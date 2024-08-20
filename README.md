@@ -1,7 +1,3 @@
-Claro, aqui está uma versão atualizada do seu README, conforme solicitado:
-
----
-
 # Previsão de Vendas: Estudo de Caso Walmart Sales
 
 ## Descrição do Projeto
