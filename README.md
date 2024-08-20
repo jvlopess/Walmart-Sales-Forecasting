@@ -63,8 +63,8 @@ O dataset utilizado neste projeto é o **Walmart Store Sales**, disponível no [
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-   cd NOME_DO_REPOSITORIO
+   git clone https://github.com/jvlopess/Walmart-Sales-Forecasting.git
+   cd Walmart-Sales-Forecasting
    ```
 
 2. Instale as dependências:
